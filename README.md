@@ -15,8 +15,8 @@ driven by data using **Hypothesis-Driven Development**.
 - 🤔 I’m looking for help on how to scale Double-Entry Bookkeeping
      systems, since they are often so reliant on sequencial operations
      per ledger.
-- 💬 Ask me about Elixir, JavaScript, HTTP Server, middleware stack
-     applications, Double-Entry Bookeeping, Financial Accounting,
+- 💬 Ask me about Elixir, JavaScript, Node.js, HTTP Servers, middleware
+     stack applications, Double-Entry Bookeeping, Financial Accounting,
      DevOps, CI/CD, Event Sourcing, CQRS, etc.
 - 📫 You can reach me on 𝕏 Twitter: [`@rwillians_`](https://twitter.com/rwillians_).
 
