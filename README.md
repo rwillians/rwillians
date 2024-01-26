@@ -19,6 +19,15 @@ driven by data using **Hypothesis-Driven Development**.
      stack applications, Double-Entry Bookeeping, Financial Accounting,
      DevOps, CI/CD, Event Sourcing, CQRS, etc.
 - 📫 You can reach me on 𝕏 Twitter: [`@rwillians_`](https://twitter.com/rwillians_).
+- 📑 You can find my publishings on dev.to: [`@rwillians`](https://dev.to/rwillians).
+
+
+### Recommendations
+
+- 📑 You might be interested in my [introduction to Double-Entry Bookkeeping Accounting](https://dev.to/rwillians/double-entry-bookkeeping-101-for-software-engineers-bk4).
+- 👨‍💻 You might be interested in [Bookk](https://github.com/rwillians/bookk),
+     my Elixir/Erlang library that provides the building blocks for
+     operating ledgers with double-entry bookkeeping.
 
 
 #### You're the visitor number:
